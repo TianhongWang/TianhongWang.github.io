@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tianhong Wang | Software Engineering"
-# description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Focusing on Intelligent Software Engineering"
 # repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tianhong Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Focusing on Intelligent Software Engineering"
+  bio              : 
   location         : "Tianjin, China"
-  employer         : "Nankai University"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Gy4sLlUAAAAJ"
   email            : "tianhongwang@mail.nankai.edu.cn"
