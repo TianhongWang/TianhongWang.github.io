@@ -23,14 +23,14 @@ I am currently pursuing my M.Sc. in Computer Science at the Software Security La
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 Joined <img src='./images/bytedance.png' style='width: 6em;' alt='Bytedance'> Coze Space as an intern, contributing to agent evaluation tasks.
+- *2025.06*: &nbsp; Joined <img src='./images/bytedance.png' style='width: 6em;' alt='Bytedance'> **Coze Space** as an intern, contributing to agent evaluation tasks.
 - *2025.01*: &nbsp;🎉🎉 Paper *Multi-Window Hijacking* accepted by **TDSC**.
 - *2024.07*: &nbsp;🎉🎉 Paper *EP-Detector* accepted by **ICES 2025**.
 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TDSC 2025</div><img src='./images/papers/Multi-Window Hijacking.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TDSC 2025</div><img src='./images/papers/Multi-Window Hijacking.png' alt="sym" style="max-width:500px; width:100%; height:auto;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fratricide! Hijacking in Android Multi-Window](https://ieeexplore.ieee.org/abstract/document/10819604/)
@@ -51,7 +51,7 @@ Chenkai Guo, **Tianhong Wang**, Qianlu Wang, Naipeng Dong, Xiangyang Luo, Zheli 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2023.09 - now*, M.Sc., Nankai University, Tianjin, China.
+- *2023.09 - 2026.06(Expected)*, M.Sc., Nankai University, Tianjin, China.
 - *2019.09 - 2023.06*, B.Sc., Wuhan University of Technology, Wuhan, China.
 
 <!-- # 💬 Invited Talks
