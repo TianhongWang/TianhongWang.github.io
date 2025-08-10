@@ -1,3 +1,5 @@
 _site/
 push.sh
 .DS_Store
+_plugins/ruby34_taint_compat.rb
+_plugins/00_compat_taint.rb

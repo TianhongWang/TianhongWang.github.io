@@ -1,0 +1,40 @@
+have_library: checking for -lstdc++... -------------------- yes
+
+PATH=".;E:/Ruby/Ruby34-x64/lib;E:\Ruby\Ruby34-x64\bin;E:\Ruby\Ruby34-x64\msys64\ucrt64\bin;E:\Ruby\Ruby34-x64\msys64\usr\bin;C:\Users\WTH\bin;D:\Tools\Git\mingw64\bin;D:\Tools\Git\usr\local\bin;D:\Tools\Git\usr\bin;D:\Tools\Git\usr\bin;D:\Tools\Git\mingw64\bin;D:\Tools\Git\usr\bin;C:\Users\WTH\bin;C:\Program Files (x86)\VMware\VMware Workstation\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Java\jdk1.8.0_361\bin;C:\Program Files\Java\jdk1.8.0_361\jre\bin;C:\Program Files\Python311;C:\Program Files\Python27;E:\AndroidSDK\platform-tools;E:\maven\apache-maven-3.9.3\bin;E:\MySQL\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn;C:\Program Files\Microsoft SQL Server\120\Tools\Binn;C:\Program Files\Microsoft SQL Server\120\DTS\Binn;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit;E:\Graphviz\bin;E:\PythonData\Scripts;E:\PythonData\condabin;E:\Redis;E:\Nodejs;C:\Program Files\dotnet;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;E:\Ruby\Ruby34-x64\bin;C:\Program Files\Python311\Scripts;C:\Program Files\Python311;C:\Program Files\Python27;C:\Program Files\Python27\Scripts;C:\Users\WTH\AppData\Local\Microsoft\WindowsApps;D:\Tools\Bandizip;D:\Tools\Microsoft VS Code\bin;D:\Tools\Pycharm\PyCharm Community Edition 2022.3.2\bin;E:\IDEA\IntelliJ IDEA Community Edition 2023.1.3\bin;E:\IDEA\IntelliJ IDEA 2023.1.3\bin;C:\Users\WTH\AppData\Roaming\npm;C:\Users\WTH\AppData\Local\Microsoft\WindowsApps;D:\Tools\Git\usr\bin\vendor_perl;D:\Tools\Git\usr\bin\core_perl;C:\Ruby31-x64\bin;C:\Ruby31-x64\msys64\ucrt64\bin;E:\Ruby\Ruby34-x64\bin;E:\Ruby\Ruby34-x64\msys64\ucrt64\bin;E:\Ruby\Ruby34-x64\bin;E:\Ruby\Ruby34-x64\msys64\ucrt64\bin" ASAN_OPTIONS=detect_leaks=0 "gcc -o conftest.exe -IE:/Ruby/Ruby34-x64/include/ruby-3.4.0/x64-mingw-ucrt -IE:/Ruby/Ruby34-x64/include/ruby-3.4.0/ruby/backward -IE:/Ruby/Ruby34-x64/include/ruby-3.4.0 -I. -D_WIN32_WINNT=0x0600 -D__MINGW_USE_VC2005_COMPAT -D_FILE_OFFSET_BITS=64  -O3 -fstack-protector-strong conftest.c -L. -LE:/Ruby/Ruby34-x64/lib -L. -pipe -s -fstack-protector-strong -lpthread -Wl,--no-as-needed     -lx64-ucrt-ruby340  -lshell32 -lws2_32 -liphlpapi -limagehlp -lshlwapi -lbcrypt  "
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <winsock2.h>
+4: #include <windows.h>
+5: int main(int argc, char **argv)
+6: {
+7:   return !!argv[argc];
+8: }
+/* end */
+
+PATH=".;E:/Ruby/Ruby34-x64/lib;E:\Ruby\Ruby34-x64\bin;E:\Ruby\Ruby34-x64\msys64\ucrt64\bin;E:\Ruby\Ruby34-x64\msys64\usr\bin;C:\Users\WTH\bin;D:\Tools\Git\mingw64\bin;D:\Tools\Git\usr\local\bin;D:\Tools\Git\usr\bin;D:\Tools\Git\usr\bin;D:\Tools\Git\mingw64\bin;D:\Tools\Git\usr\bin;C:\Users\WTH\bin;C:\Program Files (x86)\VMware\VMware Workstation\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Java\jdk1.8.0_361\bin;C:\Program Files\Java\jdk1.8.0_361\jre\bin;C:\Program Files\Python311;C:\Program Files\Python27;E:\AndroidSDK\platform-tools;E:\maven\apache-maven-3.9.3\bin;E:\MySQL\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn;C:\Program Files\Microsoft SQL Server\120\Tools\Binn;C:\Program Files\Microsoft SQL Server\120\DTS\Binn;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit;E:\Graphviz\bin;E:\PythonData\Scripts;E:\PythonData\condabin;E:\Redis;E:\Nodejs;C:\Program Files\dotnet;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;E:\Ruby\Ruby34-x64\bin;C:\Program Files\Python311\Scripts;C:\Program Files\Python311;C:\Program Files\Python27;C:\Program Files\Python27\Scripts;C:\Users\WTH\AppData\Local\Microsoft\WindowsApps;D:\Tools\Bandizip;D:\Tools\Microsoft VS Code\bin;D:\Tools\Pycharm\PyCharm Community Edition 2022.3.2\bin;E:\IDEA\IntelliJ IDEA Community Edition 2023.1.3\bin;E:\IDEA\IntelliJ IDEA 2023.1.3\bin;C:\Users\WTH\AppData\Roaming\npm;C:\Users\WTH\AppData\Local\Microsoft\WindowsApps;D:\Tools\Git\usr\bin\vendor_perl;D:\Tools\Git\usr\bin\core_perl;C:\Ruby31-x64\bin;C:\Ruby31-x64\msys64\ucrt64\bin;E:\Ruby\Ruby34-x64\bin;E:\Ruby\Ruby34-x64\msys64\ucrt64\bin;E:\Ruby\Ruby34-x64\bin;E:\Ruby\Ruby34-x64\msys64\ucrt64\bin" ASAN_OPTIONS=detect_leaks=0 "gcc -o conftest.exe -IE:/Ruby/Ruby34-x64/include/ruby-3.4.0/x64-mingw-ucrt -IE:/Ruby/Ruby34-x64/include/ruby-3.4.0/ruby/backward -IE:/Ruby/Ruby34-x64/include/ruby-3.4.0 -I. -D_WIN32_WINNT=0x0600 -D__MINGW_USE_VC2005_COMPAT -D_FILE_OFFSET_BITS=64  -O3 -fstack-protector-strong conftest.c -L. -LE:/Ruby/Ruby34-x64/lib -L. -pipe -s -fstack-protector-strong -lpthread -Wl,--no-as-needed     -lx64-ucrt-ruby340 -lstdc++  -lshell32 -lws2_32 -liphlpapi -limagehlp -lshlwapi -lbcrypt  "
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <winsock2.h>
+ 4: #include <windows.h>
+ 5: 
+ 6: /*top*/
+ 7: extern int t(void);
+ 8: int main(int argc, char **argv)
+ 9: {
+10:   if (argc > 1000000) {
+11:     int (* volatile tp)(void)=(int (*)(void))&t;
+12:     printf("%d", (*tp)());
+13:   }
+14: 
+15:   return !!argv[argc];
+16: }
+17: 
+18: int t(void) { ; return 0; }
+/* end */
+
+--------------------
+

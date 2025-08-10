@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
+gem "nokogiri", ">= 1.16"
+
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
@@ -16,8 +18,6 @@ gem "github-pages", group: :jekyll_plugins
 
 # gem "jekyll"
 
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
-
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   # gem "jekyll-archives"
@@ -25,3 +25,13 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
 end
+
+gem "csv", "~> 3.3"
+
+gem "logger", "~> 1.7"
+
+gem "base64", "~> 0.3.0"
+
+gem "bigdecimal", "~> 3.2"
+
+gem "tzinfo-data", "~> 1.2025"

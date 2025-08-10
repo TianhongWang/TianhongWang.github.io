@@ -1,0 +1,21 @@
+current directory: E:/Github/TianhongWang.github.io/TianhongWang.github.io/vendor/bundle-ruby31/ruby/3.4.0/gems/racc-1.6.0/ext/racc/cparse
+E:/Ruby/Ruby34-x64/bin/ruby.exe extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: E:/Github/TianhongWang.github.io/TianhongWang.github.io/vendor/bundle-ruby31/ruby/3.4.0/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250811-16724-9tygat sitelibdir\=./.gem.20250811-16724-9tygat clean
+
+current directory: E:/Github/TianhongWang.github.io/TianhongWang.github.io/vendor/bundle-ruby31/ruby/3.4.0/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250811-16724-9tygat sitelibdir\=./.gem.20250811-16724-9tygat
+generating cparse-x64-mingw-ucrt.def
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: E:/Github/TianhongWang.github.io/TianhongWang.github.io/vendor/bundle-ruby31/ruby/3.4.0/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250811-16724-9tygat sitelibdir\=./.gem.20250811-16724-9tygat install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20250811-16724-9tygat/racc
+
+current directory: E:/Github/TianhongWang.github.io/TianhongWang.github.io/vendor/bundle-ruby31/ruby/3.4.0/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250811-16724-9tygat sitelibdir\=./.gem.20250811-16724-9tygat clean
