@@ -25,7 +25,7 @@ I am currently pursuing my M.Sc. in Computer Science at the Software Security La
 # 🔥 News
 - *2025.06*: &nbsp; Joined <img src='./images/bytedance.png' style='width: 6em;' alt='Bytedance'> **Coze Space** as an intern, contributing to agent evaluation tasks.
 - *2025.01*: &nbsp;🎉🎉 Paper *Multi-Window Hijacking* accepted by **TDSC**.
-- *2024.07*: &nbsp;🎉🎉 Paper *EP-Detector* accepted by **ICES 2025**.
+- *2024.07*: &nbsp;🎉🎉 Paper *EP-Detector* accepted by **ICSE 2025**.
 
 
 # 📝 Publications 
@@ -46,9 +46,10 @@ Chenkai Guo, **Tianhong Wang**, Qianlu Wang, Naipeng Dong, Xiangyang Luo, Zheli 
 
 - [EP-Detector: Automatic Detection of Error-Prone Operation Anomalies in Android Applications](https://ieeexplore.ieee.org/abstract/document/11029849), Chenkai Guo, Qianlu Wang, Naipeng Dong, Lingling Fan, **Tianhong Wang**, Weijie Zhang, Enbao Chen, Zheli Liu, Lu Yu, **ICSE 2025**
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🎖 Honors and Awards
+- *2023.11* Nankai University Graduate Recommendation Scholarship.
+- *2023.06* Outstanding Graduate, Wuhan University of Technology.
+- *2022.04* Meritorious Winner, Mathematical Contest in Modeling (MCM), USA.
 
 # 📖 Educations
 - *2023.09 - 2026.06(Expected)*, M.Sc., Nankai University, Tianjin, China.
