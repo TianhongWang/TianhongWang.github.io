@@ -35,7 +35,7 @@ I am currently pursuing my M.Sc. in Computer Science at the Software Security La
 
 [Fratricide! Hijacking in Android Multi-Window](https://ieeexplore.ieee.org/abstract/document/10819604/)
 
-Chenkai Guo, **Tianhong Wang**, Qianlu Wang, Naipeng Dong, Xiangyang Luo, Zheli Liu
+Chenkai Guo, **Tianhong Wang**, Qianlu Wang, Naipeng Dong, Xiangyang Luo, Zheli Liu<sup>†</sup>
 
 [**Project**](https://github.com/daidai2/Multi-Window-Hijacking) 
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
@@ -44,12 +44,12 @@ Chenkai Guo, **Tianhong Wang**, Qianlu Wang, Naipeng Dong, Xiangyang Luo, Zheli 
 </div>
 </div>
 
-- [EP-Detector: Automatic Detection of Error-Prone Operation Anomalies in Android Applications](https://ieeexplore.ieee.org/abstract/document/11029849), Chenkai Guo, Qianlu Wang, Naipeng Dong, Lingling Fan, **Tianhong Wang**, Weijie Zhang, Enbao Chen, Zheli Liu, Lu Yu, **ICSE 2025**
+- [EP-Detector: Automatic Detection of Error-Prone Operation Anomalies in Android Applications](https://ieeexplore.ieee.org/abstract/document/11029849), Chenkai Guo, Qianlu Wang, Naipeng Dong, Lingling Fan<sup>†</sup>, **Tianhong Wang**, Weijie Zhang, Enbao Chen, Zheli Liu, Lu Yu, **ICSE 2025**
 
 # 🎖 Honors and Awards
 - *2023.11* Nankai University Graduate Recommendation Scholarship.
 - *2023.06* Outstanding Graduate, Wuhan University of Technology.
-- *2022.04* Meritorious Winner, Mathematical Contest in Modeling (MCM), USA.
+- *2022.04* Meritorious Winner, Mathematical Contest in Modeling (MCM).
 
 # 📖 Educations
 - *2023.09 - 2026.06(Expected)*, M.Sc., Nankai University, Tianjin, China.
