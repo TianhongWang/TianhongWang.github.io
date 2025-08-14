@@ -25,7 +25,7 @@ I am currently pursuing my M.Sc. in Computer Science at the Software Security La
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 Paper *Multi-window Resource Conflict* accepted by **ASE 2025**, congrats to Huimin!
 - *2025.06*: &nbsp; Joined <img src='./images/bytedance.png' style='width: 6em;' alt='Bytedance'> **Coze Space** as an intern, contributing to agent evaluation tasks.
-- *2025.01*: &nbsp;🎉🎉 Paper *Multi-Window Hijacking* accepted by **TDSC**.
+- *2025.01*: &nbsp;🎉🎉 Paper *Multi-Window Hijacking* accepted by **TDSC 2025**.
 - *2024.07*: &nbsp;🎉🎉 Paper *EP-Detector* accepted by **ICSE 2025**.
 
 
