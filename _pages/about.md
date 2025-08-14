@@ -23,6 +23,7 @@ I am currently pursuing my M.Sc. in Computer Science at the Software Security La
 
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 Paper *Multi-window Resource Conflict* accepted by **ASE 2025**, congrats to Huimin!
 - *2025.06*: &nbsp; Joined <img src='./images/bytedance.png' style='width: 6em;' alt='Bytedance'> **Coze Space** as an intern, contributing to agent evaluation tasks.
 - *2025.01*: &nbsp;🎉🎉 Paper *Multi-Window Hijacking* accepted by **TDSC**.
 - *2024.07*: &nbsp;🎉🎉 Paper *EP-Detector* accepted by **ICSE 2025**.
@@ -44,6 +45,7 @@ Chenkai Guo, **Tianhong Wang**, Qianlu Wang, Naipeng Dong, Xiangyang Luo, Zheli 
 </div>
 </div>
 
+- Don't Mess with Bro's Cheese! An Empirical Study of Resource Conflict in Android Multi-window, Chenkai Guo, Huimin Zhao, **Tianhong Wang**, Naipeng Dong, Qingqing Dong, Jiarui Che, Yaqiong Qiao<sup>†</sup>, Xiangyang Luo, Zheli Liu, **ASE 2025**
 - [EP-Detector: Automatic Detection of Error-Prone Operation Anomalies in Android Applications](https://ieeexplore.ieee.org/abstract/document/11029849), Chenkai Guo, Qianlu Wang, Naipeng Dong, Lingling Fan<sup>†</sup>, **Tianhong Wang**, Weijie Zhang, Enbao Chen, Zheli Liu, Lu Yu, **ICSE 2025**
 
 # 🎖 Honors and Awards
