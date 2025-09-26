@@ -49,6 +49,7 @@ Chenkai Guo, **Tianhong Wang**, Qianlu Wang, Naipeng Dong, Xiangyang Luo, Zheli 
 - [EP-Detector: Automatic Detection of Error-Prone Operation Anomalies in Android Applications](https://ieeexplore.ieee.org/abstract/document/11029849), Chenkai Guo, Qianlu Wang, Naipeng Dong, Lingling Fan<sup>†</sup>, **Tianhong Wang**, Weijie Zhang, Enbao Chen, Zheli Liu, Lu Yu, **ICSE 2025**
 
 # 🎖 Honors and Awards
+- *2025.09* National Scholarship.
 - *2023.11* Nankai University Graduate Recommendation Scholarship.
 - *2023.06* Outstanding Graduate, Wuhan University of Technology.
 - *2022.04* Meritorious Winner, Mathematical Contest in Modeling (MCM).
