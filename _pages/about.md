@@ -45,7 +45,7 @@ Chenkai Guo, **Tianhong Wang**, Qianlu Wang, Naipeng Dong, Xiangyang Luo, Zheli 
 </div>
 </div>
 
-- [Don't Mess with Bro's Cheese! An Empirical Study of Resource Conflict in Android Multi-window](https://conf.researchr.org/details/ase-2025/ase-2025-papers/83/Don-t-Mess-with-Bro-s-Cheese-An-Empirical-Study-of-Resource-Conflict-in-Android-Mult), Chenkai Guo, Huimin Zhao, **Tianhong Wang**, Naipeng Dong, Qingqing Dong, Jiarui Che, Yaqiong Qiao<sup>†</sup>, Xiangyang Luo, Zheli Liu, **ASE 2025**
+- [Don't Mess with Bro's Cheese! An Empirical Study of Resource Conflict in Android Multi-window](https://ieeexplore.ieee.org/abstract/document/11334722), Chenkai Guo, Huimin Zhao, **Tianhong Wang**, Naipeng Dong, Qingqing Dong, Jiarui Che, Yaqiong Qiao<sup>†</sup>, Xiangyang Luo, Zheli Liu, **ASE 2025**
 - [EP-Detector: Automatic Detection of Error-Prone Operation Anomalies in Android Applications](https://ieeexplore.ieee.org/abstract/document/11029849), Chenkai Guo, Qianlu Wang, Naipeng Dong, Lingling Fan<sup>†</sup>, **Tianhong Wang**, Weijie Zhang, Enbao Chen, Zheli Liu, Lu Yu, **ICSE 2025**
 
 # 🎖 Honors and Awards
