@@ -22,14 +22,14 @@ I am currently pursuing my M.Sc. in Computer Science at the Software Security La
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-# 🔥 News
+# 🔥 News {#news}
 - *2025.08*: &nbsp;🎉🎉 Paper *Multi-window Resource Conflict* accepted by **ASE 2025**, congrats to Huimin!
 - *2025.06*: &nbsp; Joined <img src='./images/bytedance.png' style='width: 6em;' alt='Bytedance'> **Coze Space** as an intern, contributing to agent research & development.
 - *2025.01*: &nbsp;🎉🎉 Paper *Multi-Window Hijacking* accepted by **TDSC 2025**.
 - *2024.07*: &nbsp;🎉🎉 Paper *EP-Detector* accepted by **ICSE 2025**.
 
 
-# 📝 Publications 
+# 📝 Publications {#publications}
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TDSC 2025</div><img src='./images/papers/Multi-Window Hijacking.png' alt="sym" style="max-width:500px; width:100%; height:auto;"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -48,19 +48,20 @@ Chenkai Guo, **Tianhong Wang**, Qianlu Wang, Naipeng Dong, Xiangyang Luo, Zheli 
 - [Don't Mess with Bro's Cheese! An Empirical Study of Resource Conflict in Android Multi-window](https://ieeexplore.ieee.org/abstract/document/11334722), Chenkai Guo, Huimin Zhao, **Tianhong Wang**, Naipeng Dong, Qingqing Dong, Jiarui Che, Yaqiong Qiao<sup>†</sup>, Xiangyang Luo, Zheli Liu, **ASE 2025**
 - [EP-Detector: Automatic Detection of Error-Prone Operation Anomalies in Android Applications](https://ieeexplore.ieee.org/abstract/document/11029849), Chenkai Guo, Qianlu Wang, Naipeng Dong, Lingling Fan<sup>†</sup>, **Tianhong Wang**, Weijie Zhang, Enbao Chen, Zheli Liu, Lu Yu, **ICSE 2025**
 
-# 🎖 Honors and Awards
+# 📖 Educations {#educations}
+- *2023.09 - 2026.06(Expected)*, M.Sc., Nankai University, Tianjin, China.
+- *2019.09 - 2023.06*, B.Sc., Wuhan University of Technology, Wuhan, China.
+
+<!-- Invited Talks：学界向板块；转向工业界后暂不展示。
+# 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+
+# 💼 Work Experience {#work-experience}
+- *2025.06 – 2025.09*, Intern, [Coze Space](https://space.coze.cn/), ByteDance, Beijing, China.
+
+# 🎖 Honors and Awards {#honors-and-awards}
 - *2025.09* National Scholarship, China.
 - *2023.11* Nankai University Graduate Recommendation Scholarship.
 - *2023.06* Outstanding Graduate, Wuhan University of Technology.
 - *2022.04* Meritorious Winner, Mathematical Contest in Modeling (MCM).
-
-# 📖 Educations
-- *2023.09 - 2026.06(Expected)*, M.Sc., Nankai University, Tianjin, China.
-- *2019.09 - 2023.06*, B.Sc., Wuhan University of Technology, Wuhan, China.
-
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
-# 💻 Internships
-- *2025.06 – 2025.09*, Intern, [Coze Space](https://space.coze.cn/), ByteDance, Beijing, China.
