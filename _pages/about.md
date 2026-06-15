@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing my M.Sc. in Computer Science at the Software Security Laboratory (SSec Lab), Nankai University, under the supervision of Associate Professor [Chenkai Guo](https://sites.google.com/view/guochenkai). My research focuses on intelligent software engineering.
+I graduated from the College of Computer Science at Nankai University in June 2026 and am currently working at ByteDance as an AI Agent Engineer. I would be glad to connect with researchers and engineers who share similar research interests.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News {#news}
+- *2026.05*: &nbsp; Joined <img src='./images/bytedance.png' style='width: 6em;' alt='Bytedance'> **Coze** as an AI Agent Engineer.
 - *2025.08*: &nbsp;🎉🎉 Paper *Multi-window Resource Conflict* accepted by **ASE 2025**, congrats to Huimin!
 - *2025.06*: &nbsp; Joined <img src='./images/bytedance.png' style='width: 6em;' alt='Bytedance'> **Coze Space** as an intern, contributing to agent research & development.
 - *2025.01*: &nbsp;🎉🎉 Paper *Multi-Window Hijacking* accepted by **TDSC 2025**.
-- *2024.07*: &nbsp;🎉🎉 Paper *EP-Detector* accepted by **ICSE 2025**.
 
 
 # 📝 Publications {#publications}
@@ -49,7 +49,7 @@ Chenkai Guo, **Tianhong Wang**, Qianlu Wang, Naipeng Dong, Xiangyang Luo, Zheli 
 - [EP-Detector: Automatic Detection of Error-Prone Operation Anomalies in Android Applications](https://ieeexplore.ieee.org/abstract/document/11029849), Chenkai Guo, Qianlu Wang, Naipeng Dong, Lingling Fan<sup>†</sup>, **Tianhong Wang**, Weijie Zhang, Enbao Chen, Zheli Liu, Lu Yu, **ICSE 2025**
 
 # 📖 Educations {#educations}
-- *2023.09 - 2026.06(Expected)*, M.Sc., Nankai University, Tianjin, China.
+- *2023.09 - 2026.06*, M.Sc., Nankai University, Tianjin, China.
 - *2019.09 - 2023.06*, B.Sc., Wuhan University of Technology, Wuhan, China.
 
 <!-- Invited Talks：学界向板块；转向工业界后暂不展示。
@@ -59,6 +59,7 @@ Chenkai Guo, **Tianhong Wang**, Qianlu Wang, Naipeng Dong, Xiangyang Luo, Zheli 
 
 # 💼 Work Experience {#work-experience}
 - *2025.06 – 2025.09*, Intern, [Coze Space](https://space.coze.cn/), ByteDance, Beijing, China.
+- *2026.05 – Present*, AI Agent Engineer, [Coze](https://www.coze.cn/), ByteDance, Beijing, China.
 
 # 🎖 Honors and Awards {#honors-and-awards}
 - *2025.09* National Scholarship, China.
